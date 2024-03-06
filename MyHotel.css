@@ -1,0 +1,14 @@
+.nav-link:hover{
+    
+    /*padding: 5px;*/
+    background-color:cadetblue;
+}
+
+.featurette-heading{
+    padding: 8%;
+    font-size: 3em;
+
+}
+.carousel-inner{
+    width: 100%;
+}
